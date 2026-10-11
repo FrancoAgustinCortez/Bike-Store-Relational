@@ -2,7 +2,9 @@
 
 ---
 
-## 🎯 Objetivo del ProyectoDiseñar e implementar un proyecto analítico completo de extremo a extremo utilizando la base de datos de muestras de bicicletas (Bike Store), abarcando la ingeniería de datos en SQL para la unión de múltiples tablas relacionales ($1:N$), la aplicación de fórmulas matemáticas de descuento y la creación de una VIEW optimizada, culminando en un panel visual ejecutivo (dashboard) interactivo en Power BI Desktop para un portafolio profesional.
+## 🎯 Objetivo del Proyecto
+
+Diseñar e implementar un proyecto analítico completo de extremo a extremo utilizando la base de datos de muestras de bicicletas (Bike Store), abarcando la ingeniería de datos en SQL para la unión de múltiples tablas relacionales ($1:N$), la aplicación de fórmulas matemáticas de descuento y la creación de una VIEW optimizada, culminando en un panel visual ejecutivo (dashboard) interactivo en Power BI Desktop para un portafolio profesional.
 
 ---
 
