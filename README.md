@@ -6,7 +6,8 @@
 
 ---
 
-## 🖼 Visualización del Dashboard(Aquí puedes insertar la captura de pantalla de tu dashboard de Power BI)
+## 🖼 Visualización del Dashboard
+![Dashboard Screenshot](./Bike%20Store%20Relational%20Screenshot.png)
 
 ---
 
@@ -20,7 +21,9 @@ Git & GitHub: Control de versiones y documentación del portafolio profesional.
 
 ---
 
-## 💡 Principales InsightsMétricas Financieras Generales: La facturación total auditada (Total Revenue) alcanzó los $7,689K, con un volumen total de 7K unidades comercializadas y un promedio general destacado por transacción.
+## 💡 Principales Insights
+
+Métricas Financieras Generales: La facturación total auditada (Total Revenue) alcanzó los $7,689K, con un volumen total de 7K unidades comercializadas y un promedio general destacado por transacción.
 
 Rendimiento por Tienda: El panel permite comparar de forma dinámica el rendimiento de las tres localizaciones de la red: Baldwin Bikes, Rowlett Bikes y Santa Cruz Bikes.
 
